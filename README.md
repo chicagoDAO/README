@@ -16,6 +16,6 @@
 
 ### Tutorials
 
-##### [How to use Discord (Loom Video)](https://www.loom.com/share/0f16094a7fe843109b91066904b72df4)
+##### [How to use Discord (Loom Video)](https://www.loom.com/share/b880de12801d409c9c801afd901276b8)
 
 ##### [How to navigate the Drive folder (Loom Video)]
