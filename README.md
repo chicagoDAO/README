@@ -11,11 +11,11 @@
 - [Discord Invite Link](https://discord.gg/aW8Na2mm8z)
 
 ### Meetings
-- Once a week, logistics done through discord.
+- Once a week, meeting logistics done through discord.
 
 
 ### Tutorials
 
-##### [How to use Discord (Loom Video)](https://www.loom.com/share/b880de12801d409c9c801afd901276b8)
+#### [How to use Discord (Loom Video)](https://www.loom.com/share/b880de12801d409c9c801afd901276b8)
 
-##### [How to navigate the Drive folder (Loom Video)]
+#### [How to navigate the Drive folder (Loom Video)](https://www.loom.com/share/8c44061441e24f4e80e7555d565b29d2)
